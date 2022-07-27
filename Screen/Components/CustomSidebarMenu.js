@@ -1,5 +1,5 @@
 // Example of Splash, Login and Sign Up in React Native
-// https://aboutreact.com/react-native-login-and-signup/
+
 
 // Import React and Component
 import React from "react";
@@ -22,7 +22,7 @@ const CustomSidebarMenu = (props) => {
             {"About React".charAt(0)}
           </Text>
         </View>
-        <Text style={stylesSidebar.profileHeaderText}>AboutReact</Text>
+        <Text style={stylesSidebar.profileHeaderText}>Testing</Text>
       </View>
       <View style={stylesSidebar.profileHeaderLine} />
 

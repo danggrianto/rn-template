@@ -1,5 +1,5 @@
 // Example of Splash, Login and Sign Up in React Native
-// https://aboutreact.com/react-native-login-and-signup/
+
 
 // Import React and Component
 import React from "react";
@@ -44,7 +44,7 @@ const SettingsScreen = () => {
             color: "grey",
           }}
         >
-          www.aboutreact.com
+          www.eggcellentphilly.com
         </Text>
       </View>
     </SafeAreaView>
